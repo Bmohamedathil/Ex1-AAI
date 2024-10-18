@@ -1,7 +1,7 @@
 <H3> Name : MOHAMED ATHIL B</H3>
-<H3> Register No : 212222230081</H3>
-<H3> Ex No : 1</H3>
-<H3>DATE : 01-09-2024</H3>
+<H3> Reg No : 212222230081</H3>
+<H3> Exp No : 1</H3>
+<H3> Date : 04-09-2024</H3>
 
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
